@@ -32,7 +32,7 @@ summary(RBC.regression)
 
 ## Output the results to a file
 ## http://www.cookbook-r.com/Data_input_and_output/Writing_text_and_output_from_analyses_to_a_file/
-sink('data_output/LDH_regression.txt', append = TRUE)
+sink('data_output/RBC_regression.txt', append = TRUE)
 print(RBC.regression)
 sink()
 
@@ -40,7 +40,7 @@ sink()
 ## http://www.sthda.com/english/wiki/one-way-anova-test-in-r
 RBC.aov <- aov(RBC ~ IBS.subtype, data = IBS1)
 summary(RBC.aov)
-sink('data_output/LDH_anova.txt', append = TRUE)
+sink('data_output/RBC_anova.txt', append = TRUE)
 print(RBC.aov)
 sink()
 
@@ -75,5 +75,4 @@ RBC_boxplot <- boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype"
 )
 print(RBC_boxplot)
 dev.off()
-
 
