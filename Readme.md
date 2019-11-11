@@ -61,6 +61,7 @@ geom_boxplot(alpha=0.3) +
 )
 >print(RBC_boxplot)
 dev.off()
+
 ![](fig_output/RBC_boxplot.png)
 
 
