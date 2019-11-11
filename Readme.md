@@ -41,14 +41,26 @@ IBS1$RBC_result[IBS1$RBC < 4.6] <- "LOW"
 
 
 ### Results of single regression, BMI x Bloodwork parameter
->boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
-        xlab = "IBS.subtype", ylab = "RBC"
-)
+## Box plots
+## https://www.statmethods.net/graphs/boxplot.html
 
+>ggplot(IBS1, aes(x=BMI, y=RBC)) +
+geom_boxplot(alpha=0.3) +
+  theme(legend.position="none")
+
+>boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype",
+        col=(c("gold" , "darkgreen")), 
+        xlab = "IBS.subtype", ylab = "RBC"
+        
+      
+)
 >png("fig_output/RBC_boxplot.png")
-RBC_boxplot <- boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
+>RBC_boxplot <- boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype",
+                       col=(c("gold" , "darkgreen")),
                        xlab = "IBS.subtype", ylab = "RBC"
 )
 >print(RBC_boxplot)
+dev.off()
 ![](fig_output/RBC_boxplot.png)
+
 
