@@ -41,5 +41,5 @@ RBC_boxplot <- boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype"
                        xlab = "IBS.subtype", ylab = "RBC"
 )
 print(RBC_boxplot)
-
+![](fig_output/RBC_boxplot.png)
 
