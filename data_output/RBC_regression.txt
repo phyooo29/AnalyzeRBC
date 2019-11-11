@@ -1,0 +1,112 @@
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-8.133 -4.451 -1.692  3.910 19.850 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  24.7136     5.8480   4.226 5.05e-05 ***
+RBC           0.4429     1.2357   0.358    0.721    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.057 on 106 degrees of freedom
+  (3 observations deleted due to missingness)
+Multiple R-squared:  0.00121,	Adjusted R-squared:  -0.008212 
+F-statistic: 0.1284 on 1 and 106 DF,  p-value: 0.7208
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-8.133 -4.451 -1.692  3.910 19.850 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  24.7136     5.8480   4.226 5.05e-05 ***
+RBC           0.4429     1.2357   0.358    0.721    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.057 on 106 degrees of freedom
+  (3 observations deleted due to missingness)
+Multiple R-squared:  0.00121,	Adjusted R-squared:  -0.008212 
+F-statistic: 0.1284 on 1 and 106 DF,  p-value: 0.7208
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+             Df Sum Sq Mean Sq F value Pr(>F)
+IBS.subtype   1  0.104  0.1042   0.466  0.496
+Residuals   108 24.142  0.2235               
+1 observation deleted due to missingness
+$stats
+     [,1]  [,2]  [,3]
+[1,] 3.48 3.980 4.210
+[2,] 4.36 4.270 4.535
+[3,] 4.67 4.755 4.690
+[4,] 5.07 5.120 5.070
+[5,] 5.62 5.660 5.470
+
+$n
+[1] 77 14 19
+
+$conf
+         [,1]     [,2]     [,3]
+[1,] 4.542159 4.396068 4.496075
+[2,] 4.797841 5.113932 4.883925
+
+$out
+numeric(0)
+
+$group
+numeric(0)
+
+$names
+[1] "0" "1" "2"
+
+quartz_off_screen 
+                2 
+quartz_off_screen 
+                2 
+quartz_off_screen 
+                3 
+quartz_off_screen 
+                3 
+$stats
+     [,1]  [,2]  [,3]
+[1,] 3.48 3.980 4.210
+[2,] 4.36 4.270 4.535
+[3,] 4.67 4.755 4.690
+[4,] 5.07 5.120 5.070
+[5,] 5.62 5.660 5.470
+
+$n
+[1] 77 14 19
+
+$conf
+         [,1]     [,2]     [,3]
+[1,] 4.542159 4.396068 4.496075
+[2,] 4.797841 5.113932 4.883925
+
+$out
+numeric(0)
+
+$group
+numeric(0)
+
+$names
+[1] "0" "1" "2"
+
+quartz_off_screen 
+                3 
