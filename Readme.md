@@ -23,6 +23,13 @@ RBC_scatterplot <- ggplot(IBS1, aes(x = BMI, y = RBC)) +
 
 print(RBC_scatterplot)
 
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)    RBC  
+     21.869        2.458
+
 ### Results of single regression, BMI x Bloodwork parameter
 boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
         xlab = "IBS.subtype", ylab = "RBC"
