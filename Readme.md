@@ -12,34 +12,43 @@ RBC.regression <- lm(BMI ~ RBC, data = IBS1)
 summary(RBC.regression)
 
 ### Results of single regression, RBC scatterplot
-ggplot(IBS1, aes(x = BMI, y = RBC)) +
+>ggplot(IBS1, aes(x = BMI, y = RBC)) +
   geom_point() +    
   geom_smooth(method = lm) 
 
-png("fig_output/RBC_scatterplot.png")
-RBC_scatterplot <- ggplot(IBS1, aes(x = BMI, y = RBC)) +
+>png("fig_output/RBC_scatterplot.png")
+>RBC_scatterplot <- ggplot(IBS1, aes(x = BMI, y = RBC)) +
   geom_point() +    
   geom_smooth(method = lm) 
 
-print(RBC_scatterplot)
+>print(RBC_scatterplot)
 
-Call:
+>Call:
 lm(formula = BMI ~ RBC, data = IBS1)
 
-Coefficients:
+>Coefficients:
 (Intercept)    RBC  
      21.869        2.458
 ![](fig_output/RBC_scatterplot.png)
 
+## Assign "HIGH", "NORMAL", or "LOW" based on clinical range to the RBC_result parameter
+
+IBS1$RBC_result[IBS1$RBC > 6.1] <- "HIGH"
+
+IBS1$RBC_result[IBS1$RBC <= 6.1 & IBS1$RBC >= 4.6] <- "NORMAL"
+
+IBS1$RBC_result[IBS1$RBC < 4.6] <- "LOW"
+
+
 ### Results of single regression, BMI x Bloodwork parameter
-boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
+>boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
         xlab = "IBS.subtype", ylab = "RBC"
 )
 
-png("fig_output/RBC_boxplot.png")
+>png("fig_output/RBC_boxplot.png")
 RBC_boxplot <- boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
                        xlab = "IBS.subtype", ylab = "RBC"
 )
-print(RBC_boxplot)
+>print(RBC_boxplot)
 ![](fig_output/RBC_boxplot.png)
 
