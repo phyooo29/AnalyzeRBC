@@ -29,6 +29,7 @@ lm(formula = BMI ~ RBC, data = IBS1)
 Coefficients:
 (Intercept)    RBC  
      21.869        2.458
+![](fig_output/RBC_scatterplot.png)
 
 ### Results of single regression, BMI x Bloodwork parameter
 boxplot(RBC ~ IBS.subtype, data = IBS1, main="RBC by IBS subtype", 
