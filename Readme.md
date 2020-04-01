@@ -28,7 +28,6 @@ summary(RBC.regression)
 ```
 
 ### Results of single regression, RBC scatterplot
-```
 >ggplot(IBS1, aes(x = BMI, y = RBC)) +
   geom_point() +    
   geom_smooth(method = lm) 
@@ -50,6 +49,7 @@ lm(formula = BMI ~ RBC, data = IBS1)
 
 ## Assign "HIGH", "NORMAL", or "LOW" based on clinical range to the RBC_result parameter
 
+```
 IBS1$RBC_result[IBS1$RBC > 6.1] <- "HIGH"
 
 IBS1$RBC_result[IBS1$RBC <= 6.1 & IBS1$RBC >= 4.6] <- "NORMAL"
