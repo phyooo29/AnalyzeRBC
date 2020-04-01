@@ -4,9 +4,9 @@
 
 ![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
 ### Single regressions, and scatterplots for clinical bloodwork and gene expression data.
-```
+
 [AnalyzeBloodwork.R](https://github.com/phyooo29/AnalyzeRBC/blob/master/data/AnalyzeBloodwork.R) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. variables from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
-```
+
 
 ## Introduction
 ### Red Blood Cell (RBC) :
@@ -22,10 +22,13 @@ Data (RobinsonEtAl_Sup1.csv) was downloaded from:
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
 ### Single Regression Test, BMI vs. Bloodwork parameter
+```
 >RBC.regression <- lm(BMI ~ RBC, data = IBS1)
 summary(RBC.regression)
+```
 
 ### Results of single regression, RBC scatterplot
+```
 >ggplot(IBS1, aes(x = BMI, y = RBC)) +
   geom_point() +    
   geom_smooth(method = lm) 
@@ -52,12 +55,12 @@ IBS1$RBC_result[IBS1$RBC > 6.1] <- "HIGH"
 IBS1$RBC_result[IBS1$RBC <= 6.1 & IBS1$RBC >= 4.6] <- "NORMAL"
 
 IBS1$RBC_result[IBS1$RBC < 4.6] <- "LOW"
+```
 
 
 ### Results of single regression, BMI x Bloodwork parameter
 ## Box plots
 ## https://www.statmethods.net/graphs/boxplot.html
-
 >ggplot(IBS1, aes(x=BMI, y=RBC)) +
 geom_boxplot(alpha=0.3) +
   theme(legend.position="none")
