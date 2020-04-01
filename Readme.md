@@ -6,6 +6,7 @@
 ### Single regressions, and scatterplots for clinical bloodwork and gene expression data.
 [AnalyzeBloodwork.R](https://github.com/phyooo29/AnalyzeRBC/blob/master/data/AnalyzeBloodwork.R) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. variables from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
 
+#### Introduction
 ### Red Blood Cell (RBC) :
 Red blood cell is also known as red cell, red blood corpuscles, haematids, erythroid cells or erythrocytes. Red Blood Cells are the most common type of blood cell and the vertevrate's principle means of delivering oxygen (O2) to the body tissues - via blood flow through the circulatory system.The primary function of red blood cells is to transport oxygen to body cells and deliver carbon dioxide to the lungs. A red blood cell has what is known as a biconcave shape.
 
