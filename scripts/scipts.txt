@@ -1,4 +1,4 @@
-## BTEC330 F2019 Project2 Robinson
+## BTEC395 S2020 Project1 Robinson
 
 ## Install necessary packages
 install.packages("ggplot2")
