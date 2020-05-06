@@ -1,0 +1,23 @@
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-20206.0  -3443.0   -400.8   2288.2  24241.1 
+
+Coefficients:
+                                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                                 59628       6974   8.550 2.21e-13 ***
+Red.Blood.Cells..RBC...trillion.cells.L.    -2298       1477  -1.556    0.123    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6758 on 94 degrees of freedom
+Multiple R-squared:  0.0251,	Adjusted R-squared:  0.01473 
+F-statistic:  2.42 on 1 and 94 DF,  p-value: 0.1232
+
+[1] 0.02509912
+                             (Intercept) Red.Blood.Cells..RBC...trillion.cells.L. 
+                            2.214065e-13                             1.231510e-01 
