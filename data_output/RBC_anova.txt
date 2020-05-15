@@ -9,3 +9,146 @@ Deg. of Freedom           1       108
 Residual standard error: 0.4727999
 Estimated effects may be unbalanced
 1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness
+Call:
+   aov(formula = RBC ~ IBS.subtype, data = IBS1)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     0.104204 24.142291
+Deg. of Freedom           1       108
+
+Residual standard error: 0.4727999
+Estimated effects may be unbalanced
+1 observation deleted due to missingness

@@ -1,0 +1,100 @@
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD8A ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   30232967462 992118940773
+Deg. of Freedom            2           93
+
+Residual standard error: 103285.7
+Estimated effects may be unbalanced

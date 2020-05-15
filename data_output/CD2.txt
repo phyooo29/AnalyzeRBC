@@ -1,0 +1,100 @@
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD2 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares       99497  88588166
+Deg. of Freedom          2        93
+
+Residual standard error: 975.9923
+Estimated effects may be unbalanced

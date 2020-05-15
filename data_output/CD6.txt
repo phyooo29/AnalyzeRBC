@@ -1,0 +1,150 @@
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD6 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    547538294 51774962760
+Deg. of Freedom           2          93
+
+Residual standard error: 23594.92
+Estimated effects may be unbalanced

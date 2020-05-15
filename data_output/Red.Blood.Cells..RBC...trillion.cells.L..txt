@@ -5498,3 +5498,6503 @@ Coefficients:
                                   707.14                                    -35.99  
 
 
+$A2M
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -242.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   438.4  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8285.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   185.6  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 68722.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -552.9  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    2304  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1789  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   59628  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2298  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  209161  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    8245  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  345191  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3152  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  651825  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   34280  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -224.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   132.8  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2113.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   496.8  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  602947  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10208  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   590.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -55.8  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2461.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   427.9  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3724.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   668.7  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7952.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   579.5  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  289144  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -28438  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  173641  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -15870  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   75362  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2778  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   49269  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3649  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  156772  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9959  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  793.39  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -37.75  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1553.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   734.3  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91.41  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  159.41  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  980.57  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   48.87  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  826.89  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -67.06  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  182050  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5046  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  111471  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1323  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8636.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -708.3  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 15954.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   647.4  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  213486  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   35375  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19110  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1476  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42789  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1693  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   72218  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7261  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1480.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   473.6  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   176.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   365.8  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   142.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   392.8  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                100079.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   572.3  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -967.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   596.2  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91891  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5348  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3735.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -155.9  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   71980  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2724  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6508  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2527  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   15642  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1494  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  372286  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9824  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129259  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5001  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  228865  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -10688  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28157  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1050  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   81798  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -6915  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   54293  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   13885  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  999088  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -41247  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  145740  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9547  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19489  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   42812  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14155  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   11211  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -66187  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   25498  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  286220  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -19642  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -340.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   780.4  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   43294  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2779  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1947.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -155.9  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 15770.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -923.9  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  415.76  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   49.33  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1165055  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -104809  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91346  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5019  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -5338  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1759  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  135.13  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   20.79  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  210654  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4333  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  603247  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -84249  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1526442  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -70448  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   15449  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -111  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   422.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   508.8  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   37298  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1164  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   68038  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6052  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   22374  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1339  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                116798.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   284.8  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   785.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  1346.9  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28291  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3503  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  231142  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3028  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                113444.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -284.1  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   51506  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4499  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1524984  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -119032  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    1014  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9215  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   99236  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1319  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  206888  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   13072  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5612.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -118.5  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17959  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1497  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    4207  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6091  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  473017  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -23405  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 62475.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -327.9  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  305667  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   59726  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1148  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2084  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  295749  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -12163  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7675.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -478.7  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   40755  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3736  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1594  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1203  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  265589  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3205  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -522.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   625.2  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   82312  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4647  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6175  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4323  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  947685  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   76344  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78562  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3028  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -872.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   513.7  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -27726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   55538  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17065  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1395  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19183  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4383  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  233324  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   32605  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -23321  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   19475  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   13779  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    7779  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1069.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   432.9  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129421  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7213  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   99167  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4130  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   20416  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4413  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   611.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -79.8  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   81662  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -6919  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   76539  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5181  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2081.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   610.1  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -802.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   515.4  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    4071  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1199  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -440.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   258.0  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1277  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1093  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   76.25  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   74.55  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  195100  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2911  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   715.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   158.9  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   46897  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3696  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   61096  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9149  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  828.18  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   64.35  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1290.86  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   31.27  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   38133  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3604  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -2026.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   813.2  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17820  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2089  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1540.18  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -91.13  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  247894  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -22473  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1449.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   689.2  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5504.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -278.4  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5247.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -268.7  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1639953  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -138625  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 40552.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   526.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  182319  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4806  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   654.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   537.9  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   12533  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1571  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  449.45  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   93.49  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28069  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2108  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   43676  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   18282  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   31326  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3920  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14057  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    5753  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  457311  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -30454  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -14680  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9303  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   830.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   328.4  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -2861  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1153  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   30816  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9517  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -27711  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   41301  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    8335  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1959  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  760932  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9803  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   36484  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3121  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   60427  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2033  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1573  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                     553  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -757.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  1451.2  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   68182  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2665  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   24222  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1261  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1771  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1451  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 7553693  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  296008  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   246.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   433.2  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 58872.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -895.4  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 91916.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   397.5  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  123316  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6575  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  6891.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   472.9  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  586.34  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -57.53  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   55703  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3041  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  189335  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1582  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 20523.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   767.6  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1258.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   587.3  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   22155  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3433  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  453210  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -24555  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14603  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1908  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  9061.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   562.3  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78659  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4545  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1476.92  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   31.87  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  186253  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -18592  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -4278  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6445  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    3950  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6779  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10589  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -747  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2156.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   129.2  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   55844  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3048  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129750  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7410  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  680781  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -15950  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   35513  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2384  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -470.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  2618.3  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  124818  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2918  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   39934  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3020  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129955  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2536  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 86536.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -953.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                32677.02  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   60.37  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1025.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   568.5  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1474.76  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -97.08  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2915.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -116.1  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                212422.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -216.3  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -61006  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  128470  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -872.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   780.7  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  150246  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2070  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1060.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   528.2  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3741.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   712.1  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7775.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   238.3  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   48957  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    8540  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   60271  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    7804  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 61601.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -334.3  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42320  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5439  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  232145  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   30916  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  123529  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3031  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  122965  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                     647  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                15301.11  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -39.06  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   27109  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1191  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  136811  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3283  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 13012.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -962.5  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 6381818  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -98749  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3602  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   40092  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4855  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   12816  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1740  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   54064  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -8756  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  130794  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4273  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6723  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -155  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   58852  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10210  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  374668  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10610  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1395.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   152.5  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   33286  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3028  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8318.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   805.9  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78226  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   22856  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -2852  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1057  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   616.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   169.8  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   49365  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2295  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    3179  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   17345  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  433016  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   97374  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1851.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   222.6  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -98938  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   43241  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                131942.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -384.4  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   83483  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3647  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   70726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5167  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10315  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1303  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 13370.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -540.3  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -117.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   462.9  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   912.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   350.3  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42461  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3838  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -4085  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1756  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 49083.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   118.3  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   61357  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3900  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  117399  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   18144  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -20035  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   16147  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1193951  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -78867  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -119712  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   29786  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6759  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3025  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   18144  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1131  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  929152  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3186  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  707.14  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -35.99  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -242.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   438.4  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8285.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   185.6  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 68722.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -552.9  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    2304  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1789  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   59628  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2298  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  209161  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    8245  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  345191  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3152  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  651825  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   34280  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -224.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   132.8  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2113.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   496.8  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  602947  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10208  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   590.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -55.8  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2461.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   427.9  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3724.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   668.7  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7952.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   579.5  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  289144  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -28438  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  173641  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -15870  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   75362  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2778  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   49269  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3649  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  156772  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9959  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  793.39  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -37.75  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1553.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   734.3  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91.41  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  159.41  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  980.57  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   48.87  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  826.89  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -67.06  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  182050  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5046  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  111471  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1323  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8636.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -708.3  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 15954.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   647.4  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  213486  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   35375  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19110  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1476  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42789  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1693  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   72218  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7261  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1480.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   473.6  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   176.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   365.8  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   142.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   392.8  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                100079.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   572.3  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -967.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   596.2  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91891  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5348  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3735.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -155.9  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   71980  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2724  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6508  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2527  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   15642  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1494  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  372286  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9824  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129259  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5001  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  228865  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -10688  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28157  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1050  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   81798  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -6915  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   54293  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   13885  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  999088  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -41247  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  145740  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9547  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19489  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   42812  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14155  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   11211  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -66187  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   25498  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  286220  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -19642  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -340.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   780.4  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   43294  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2779  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1947.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -155.9  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 15770.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -923.9  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  415.76  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   49.33  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1165055  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -104809  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   91346  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5019  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -5338  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1759  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  135.13  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   20.79  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  210654  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4333  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  603247  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -84249  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1526442  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -70448  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   15449  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -111  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   422.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   508.8  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   37298  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1164  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   68038  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6052  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   22374  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1339  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                116798.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   284.8  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   785.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  1346.9  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28291  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3503  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  231142  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3028  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                113444.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -284.1  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   51506  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4499  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1524984  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -119032  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    1014  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9215  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   99236  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1319  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  206888  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   13072  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5612.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -118.5  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17959  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1497  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    4207  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6091  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  473017  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -23405  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 62475.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -327.9  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  305667  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   59726  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1148  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2084  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  295749  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -12163  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7675.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -478.7  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   40755  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3736  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1594  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1203  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  265589  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3205  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -522.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   625.2  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   82312  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4647  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6175  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4323  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  947685  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   76344  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78562  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3028  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -872.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   513.7  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -27726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   55538  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17065  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1395  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   19183  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4383  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  233324  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   32605  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -23321  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   19475  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   13779  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    7779  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1069.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   432.9  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129421  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7213  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   99167  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4130  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   20416  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4413  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   611.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -79.8  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   81662  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -6919  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   76539  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5181  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2081.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   610.1  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -802.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   515.4  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    4071  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1199  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -440.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   258.0  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1277  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1093  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   76.25  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   74.55  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  195100  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2911  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   715.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   158.9  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   46897  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3696  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   61096  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9149  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  828.18  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   64.35  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1290.86  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   31.27  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   38133  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3604  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -2026.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   813.2  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   17820  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2089  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1540.18  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -91.13  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  247894  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -22473  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1449.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   689.2  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5504.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -278.4  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  5247.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -268.7  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1639953  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                 -138625  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 40552.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   526.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  182319  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4806  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   654.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   537.9  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   12533  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1571  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  449.45  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   93.49  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   28069  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2108  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   43676  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   18282  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   31326  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3920  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14057  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    5753  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  457311  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -30454  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -14680  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9303  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   830.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   328.4  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -2861  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1153  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   30816  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    9517  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -27711  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   41301  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    8335  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1959  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  760932  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -9803  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   36484  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3121  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   60427  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2033  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1573  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                     553  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -757.9  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  1451.2  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   68182  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2665  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   24222  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1261  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -1771  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1451  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 7553693  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  296008  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   246.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   433.2  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 58872.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -895.4  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 91916.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   397.5  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  123316  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6575  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  6891.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   472.9  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  586.34  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -57.53  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   55703  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3041  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  189335  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1582  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 20523.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   767.6  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1258.0  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   587.3  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   22155  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3433  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  453210  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -24555  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   14603  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1908  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  9061.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   562.3  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78659  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -4545  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1476.92  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   31.87  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  186253  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -18592  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -4278  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6445  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    3950  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    6779  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10589  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -747  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2156.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   129.2  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   55844  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3048  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129750  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -7410  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  680781  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -15950  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   35513  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -2384  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -470.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  2618.3  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  124818  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2918  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   39934  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3020  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  129955  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2536  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 86536.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -953.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                32677.02  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   60.37  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1025.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   568.5  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1474.76  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -97.08  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  2915.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -116.1  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                212422.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -216.3  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -61006  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  128470  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -872.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   780.7  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  150246  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2070  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -1060.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   528.2  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  3741.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   712.1  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  7775.4  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   238.3  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   48957  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    8540  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   60271  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    7804  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 61601.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -334.3  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42320  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5439  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  232145  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   30916  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  123529  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3031  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  122965  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                     647  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                15301.11  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -39.06  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   27109  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1191  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  136811  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -3283  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 13012.3  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -962.5  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 6381818  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -98749  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3602  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   40092  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4855  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   12816  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -1740  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   54064  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -8756  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  130794  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    4273  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6723  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    -155  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   58852  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10210  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  374668  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   10610  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1395.8  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   152.5  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   33286  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3028  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  8318.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   805.9  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   78226  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   22856  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -2852  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1057  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   616.5  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   169.8  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   49365  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    2295  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    3179  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   17345  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  433016  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   97374  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  1851.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   222.6  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -98938  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   43241  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                131942.1  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -384.4  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   83483  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3647  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   70726  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   -5167  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   10315  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1303  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 13370.6  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -540.3  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -117.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   462.9  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   912.7  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   350.3  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   42461  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3838  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   -4085  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1756  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 49083.2  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   118.3  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   61357  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3900  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  117399  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   18144  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  -20035  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   16147  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 1193951  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -78867  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                 -119712  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                   29786  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                    6759  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3025  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                   18144  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    1131  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  929152  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                    3186  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Coefficients:
+                             (Intercept)  
+                                  707.14  
+Red.Blood.Cells..RBC...trillion.cells.L.  
+                                  -35.99  
+
+

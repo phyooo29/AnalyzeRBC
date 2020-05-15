@@ -110,3 +110,199 @@ $names
 
 quartz_off_screen 
                 3 
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+             Df Sum Sq Mean Sq F value Pr(>F)
+IBS.subtype   1  0.104  0.1042   0.466  0.496
+Residuals   108 24.142  0.2235               
+1 observation deleted due to missingness
+RStudioGD 
+        2 
+$stats
+     [,1]  [,2]  [,3]
+[1,] 3.48 3.980 4.210
+[2,] 4.36 4.270 4.535
+[3,] 4.67 4.755 4.690
+[4,] 5.07 5.120 5.070
+[5,] 5.62 5.660 5.470
+
+$n
+[1] 77 14 19
+
+$conf
+         [,1]     [,2]     [,3]
+[1,] 4.542159 4.396068 4.496075
+[2,] 4.797841 5.113932 4.883925
+
+$out
+numeric(0)
+
+$group
+numeric(0)
+
+$names
+[1] "0" "1" "2"
+
+RStudioGD 
+        2 
+  [1] "A2M"      "AASS"     "ABCF1"    "ADAM9"    "AGO2"     "AKT3"     "Angptl4"  "ANP32B"   "ANXA1"    "APOE"     "Areg"     "ARL4D"   
+ [13] "Atf3"     "ATM"      "BATF"     "BCL2"     "BCL6"     "BHLHE40"  "BLK"      "BTLA"     "BTNL3"    "CCL13"    "CCL17"    "Ccl2"    
+ [25] "CCL22"    "Ccl3"     "Ccl4"     "CCL7"     "CCNG2"    "CCR2"     "CCR3"     "CCR5"     "CD14"     "CD160"    "CD163"    "CD19"    
+ [37] "CD1A"     "CD1B"     "CD1E"     "CD2"      "CD209"    "CD27"     "CD274"    "CD28"     "Cd300lb"  "CD33"     "CD38"     "CD3E"    
+ [49] "CD3G"     "CD4"      "CD40"     "CD40LG"   "CD6"      "CD68"     "CD8A"     "CD8B"     "CD9"      "CEBPB"    "CHIT1"    "Cited2"  
+ [61] "CLTC"     "CMA1"     "CR2"      "CSF2"     "CSF3R"    "CTLA4"    "CTSG"     "Cxcl10"   "CXCL13"   "CXCL5"    "CXCL8"    "CXCR4"   
+ [73] "CXCR6"    "Ddit4"    "DGCR8"    "DICER1"   "DOCK9"    "DROSHA"   "DUSP1"    "Dusp5"    "Egr2"     "Egr3"     "Enc1"     "Ets1"    
+ [85] "Etv3"     "EWSR1"    "F13A1"    "FEZ1"     "Fkbp5"    "FLT3LG"   "FOXP3"    "FPR2"     "FUT5"     "Fzd4"     "G6PD"     "GADD45A" 
+ [97] "GAPDH"    "GATA3"    "GLP1R"    "GNLY"     "Gpr84"    "GSTM3"    "GUSB"     "GZMA"     "GZMH"     "GZMM"     "HLA.DOB"  "HPRT1"   
+[109] "HPSE"     "HSD11B1"  "Hsp1a"    "ICOS"     "Ier3"     "Ier5"     "Ifnb1"    "IFNG"     "IL10"     "IL12b"    "IL12RB2"  "IL13"    
+[121] "Il15ra"   "IL17A"    "IL17RA"   "IL1A"     "IL1B"     "IL1R2"    "Il1rn"    "IL2"      "IL26"     "IL2RA"    "IL3"      "Il1f9"   
+[133] "IL3RA"    "IL4"      "IL4R"     "IL5"      "IL5RA"    "IL6"      "IL7R"     "Irf1"     "Jdp2"     "JUN"      "Junb"     "Kcnk6"   
+[145] "KIR3DL1"  "KIT"      "KLF15"    "Klf2"     "Klf4"     "Klf7"     "Klf9"     "KLRD1"    "KLRF1"    "LAIR2"    "LCN2"     "Lif"     
+[157] "LTA"      "LTK"      "LYZ"      "MAF"      "MAP2K1"   "MAPK1"    "MAPK11"   "MAPK12"   "MAPK13"   "MAPK14"   "MAPK8"    "MARCO"   
+[169] "MME"      "MS4A1"    "MS4A2"    "MSR1"     "MT2A"     "MUC1"     "Mxd1"     "NCAM1"    "NCR1"     "NEFL"     "NFATC4"   "Nfil3"   
+[181] "NFKB1"    "NFKB2"    "NFKBIA"   "NLRP2"    "NMUR1"    "NR3C1"    "NT5E"     "NUMA1"    "NUP107"   "SAAS"     "PDCD1"    "PDCD1LG2"
+[193] "Per1"     "Pfkfb3"   "PMCH"     "POLR2A"   "Prdm1"    "PRF1"     "PRG2"     "PRKAA1"   "PRODH"    "PTGDR2"   "Ptgs2"    "PTX3"    
+[205] "RAB11A"   "RAB8B"    "Rasgef1b" "REL"      "RELA"     "RELB"     "REPS1"    "Rit1"     "RORC"     "RPL19"    "CD62L"    "Sik1"    
+[217] "SLPI"     "SMAD2"    "SMPD3"    "STAT4"    "STAT6"    "SYT17"    "TARBP2"   "TARP"     "TAS1R3"   "TAS2R38"  "TBP"      "TBX21"   
+[229] "TGFB1"    "TGFB2"    "THBS1"    "TLR2"     "TLR4"     "TNF"      "Tnfaip2"  "TNFRSF17" "TNFRSF18" "TNFRSF4"  "TNFRSF9"  "Tnfsf4"  
+[241] "TOLLIP"   "TPSAB1"   "TRIO"     "Tsc22d3"  "TUBB"     "USP9Y"    "VEGFA"    "XPO5"     "ZFP36"    "ZNF205"  
+Length  Class   Mode 
+     0   NULL   NULL 
+  [1] "A2M"      "AASS"     "ABCF1"    "ADAM9"    "AGO2"     "AKT3"     "Angptl4"  "ANP32B"   "ANXA1"    "APOE"     "Areg"     "ARL4D"   
+ [13] "Atf3"     "ATM"      "BATF"     "BCL2"     "BCL6"     "BHLHE40"  "BLK"      "BTLA"     "BTNL3"    "CCL13"    "CCL17"    "Ccl2"    
+ [25] "CCL22"    "Ccl3"     "Ccl4"     "CCL7"     "CCNG2"    "CCR2"     "CCR3"     "CCR5"     "CD14"     "CD160"    "CD163"    "CD19"    
+ [37] "CD1A"     "CD1B"     "CD1E"     "CD2"      "CD209"    "CD27"     "CD274"    "CD28"     "Cd300lb"  "CD33"     "CD38"     "CD3E"    
+ [49] "CD3G"     "CD4"      "CD40"     "CD40LG"   "CD6"      "CD68"     "CD8A"     "CD8B"     "CD9"      "CEBPB"    "CHIT1"    "Cited2"  
+ [61] "CLTC"     "CMA1"     "CR2"      "CSF2"     "CSF3R"    "CTLA4"    "CTSG"     "Cxcl10"   "CXCL13"   "CXCL5"    "CXCL8"    "CXCR4"   
+ [73] "CXCR6"    "Ddit4"    "DGCR8"    "DICER1"   "DOCK9"    "DROSHA"   "DUSP1"    "Dusp5"    "Egr2"     "Egr3"     "Enc1"     "Ets1"    
+ [85] "Etv3"     "EWSR1"    "F13A1"    "FEZ1"     "Fkbp5"    "FLT3LG"   "FOXP3"    "FPR2"     "FUT5"     "Fzd4"     "G6PD"     "GADD45A" 
+ [97] "GAPDH"    "GATA3"    "GLP1R"    "GNLY"     "Gpr84"    "GSTM3"    "GUSB"     "GZMA"     "GZMH"     "GZMM"     "HLA.DOB"  "HPRT1"   
+[109] "HPSE"     "HSD11B1"  "Hsp1a"    "ICOS"     "Ier3"     "Ier5"     "Ifnb1"    "IFNG"     "IL10"     "IL12b"    "IL12RB2"  "IL13"    
+[121] "Il15ra"   "IL17A"    "IL17RA"   "IL1A"     "IL1B"     "IL1R2"    "Il1rn"    "IL2"      "IL26"     "IL2RA"    "IL3"      "Il1f9"   
+[133] "IL3RA"    "IL4"      "IL4R"     "IL5"      "IL5RA"    "IL6"      "IL7R"     "Irf1"     "Jdp2"     "JUN"      "Junb"     "Kcnk6"   
+[145] "KIR3DL1"  "KIT"      "KLF15"    "Klf2"     "Klf4"     "Klf7"     "Klf9"     "KLRD1"    "KLRF1"    "LAIR2"    "LCN2"     "Lif"     
+[157] "LTA"      "LTK"      "LYZ"      "MAF"      "MAP2K1"   "MAPK1"    "MAPK11"   "MAPK12"   "MAPK13"   "MAPK14"   "MAPK8"    "MARCO"   
+[169] "MME"      "MS4A1"    "MS4A2"    "MSR1"     "MT2A"     "MUC1"     "Mxd1"     "NCAM1"    "NCR1"     "NEFL"     "NFATC4"   "Nfil3"   
+[181] "NFKB1"    "NFKB2"    "NFKBIA"   "NLRP2"    "NMUR1"    "NR3C1"    "NT5E"     "NUMA1"    "NUP107"   "SAAS"     "PDCD1"    "PDCD1LG2"
+[193] "Per1"     "Pfkfb3"   "PMCH"     "POLR2A"   "Prdm1"    "PRF1"     "PRG2"     "PRKAA1"   "PRODH"    "PTGDR2"   "Ptgs2"    "PTX3"    
+[205] "RAB11A"   "RAB8B"    "Rasgef1b" "REL"      "RELA"     "RELB"     "REPS1"    "Rit1"     "RORC"     "RPL19"    "CD62L"    "Sik1"    
+[217] "SLPI"     "SMAD2"    "SMPD3"    "STAT4"    "STAT6"    "SYT17"    "TARBP2"   "TARP"     "TAS1R3"   "TAS2R38"  "TBP"      "TBX21"   
+[229] "TGFB1"    "TGFB2"    "THBS1"    "TLR2"     "TLR4"     "TNF"      "Tnfaip2"  "TNFRSF17" "TNFRSF18" "TNFRSF4"  "TNFRSF9"  "Tnfsf4"  
+[241] "TOLLIP"   "TPSAB1"   "TRIO"     "Tsc22d3"  "TUBB"     "USP9Y"    "VEGFA"    "XPO5"     "ZFP36"    "ZNF205"  
+
+Call:
+lm(formula = get(i) ~ Red.Blood.Cells..RBC...trillion.cells.L., 
+    data = IBS)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-20206.0  -3443.0   -400.8   2288.2  24241.1 
+
+Coefficients:
+                                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                                 59628       6974   8.550 2.21e-13 ***
+Red.Blood.Cells..RBC...trillion.cells.L.    -2298       1477  -1.556    0.123    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6758 on 94 degrees of freedom
+Multiple R-squared:  0.0251,	Adjusted R-squared:  0.01473 
+F-statistic:  2.42 on 1 and 94 DF,  p-value: 0.1232
+
+[1] 0.02509912
+                             (Intercept) Red.Blood.Cells..RBC...trillion.cells.L. 
+                            2.214065e-13                             1.231510e-01 
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
+
+Call:
+lm(formula = BMI ~ RBC, data = IBS1)
+
+Coefficients:
+(Intercept)          RBC  
+    24.7136       0.4429  
+
