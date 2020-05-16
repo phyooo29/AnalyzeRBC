@@ -160,6 +160,8 @@ dev.off()
   <img width="500" height="500" src="../master/fig_output/RBCplot.png">
 </p>
 
+### Significant Genes for RBC
+
 |***GENE***|***Complete name***|
 |:--:|:-------|
 |**BCL2**|B-cell lymphoma 2|
@@ -185,3 +187,9 @@ dev.off()
 |**TAS1R3**|taste 1 receptor member 3|
 |**Tnfsf4**|TNF superfamily member 4|
 |**USP9Y**|ubiquitin specific peptidase 9 Y-linked|
+
+### Panther Analysis Result
+
+![](Images/PantherResult.png)
+
+##
