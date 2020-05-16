@@ -159,3 +159,29 @@ dev.off()
 <p align="center">
   <img width="500" height="500" src="../master/fig_output/RBCplot.png">
 </p>
+
+|***GENE***|***Complete name***|
+|:--:|:-------|
+|**BCL2**|B-cell lymphoma 2|
+|**CD1B**|CD1b Molecule|
+|**CD6**|CD6 Molecule|
+|**CD62L**|cell adhesion molecule found on leukocytes and the preimplantation embryo, L-selectin|
+|**CR2**|complement C3d receptor 2|
+|**Etv3**|ETS variant transcription factor 3|
+|**Fkbp5**|FKBP prolyl isomerase 5|
+|**GNLY**|granulysin|
+|**GUSB**|glucuronidase beta|
+|**HPSE**|heparanase|
+|**IL1R2**|interleukin 1 receptor type 2|
+|**Il1rn**|interleukin 1 receptor antagonist|
+|**KIR3DL1**|killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1|
+|**KlF4**|Kruppel like factor 4|
+|**lAIR2**|leukocyte associated immunoglobulin like receptor 2|
+|**NCR1**|natural cytotoxicity triggering receptor 1|
+|**NMUR1**|neuromedin U receptor 1|
+|**PDCD1**|programmed cell death 1|
+|**PMCH**|pro-melanin concentrating hormone|
+|**POLR2A**|POLR2A RNA polymerase II subunit A |
+|**TAS1R3**|taste 1 receptor member 3|
+|**Tnfsf4**|TNF superfamily member 4|
+|**USP9Y**|ubiquitin specific peptidase 9 Y-linked|
